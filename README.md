@@ -1,6 +1,8 @@
 # LibreToPDF
 Script to make PDFs from MSOffice/LibreOffice documents (in headless mode).
 
+macOS only.
+
 ## Usage
 `./to-pdf SomeFile.docx`
 > Exporting as PDF...<br>Done.
